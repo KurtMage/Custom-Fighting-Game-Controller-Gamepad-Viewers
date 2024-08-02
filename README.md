@@ -6,6 +6,16 @@ Various controller layouts for gamepad viewer. Example of some 2XKO layouts:
 
 ![](https://github.com/KurtMage/KurtMage.github.io/blob/main/gifs/4%20layouts%20including%20stick.gif)
 
+# Tutorials
+
+[How to set up for OBS](#a-how-to-set-up-for-obs)
+
+[How to change button layout](#a-how-to-change-button-layout)
+
+[How to create your own buttons or mix and match buttons](#a-how-to-create-your-own-buttons)
+
+
+
 <!----><a name="a-how-to-set-up-for-obs"></a>
 
 # How to set up for OBS
@@ -19,6 +29,8 @@ NOTE: Every URL below has `p=1` in it. This is what determines what player your 
 3. In the URL box, put the URL from step 1.
 4. Change the Width to 1500.
 5. Final important note: you need to give it an input from the controller for it to show up. Other than that, you're all set up!
+
+<!----><a name="a-how-to-change-button-layout"></a>
 
 # How to change your button layout for custom controls
 
@@ -72,6 +84,8 @@ So, for example, if you wanted to set the top-right button to `T`, you would loo
 
 ## Example demo of customizing button layout:
 ![](https://github.com/KurtMage/KurtMage.github.io/blob/main/gifs/customize%20controls.gif)
+
+<!----><a name="a-how-to-create-your-own-buttons"></a>
 
 # How to create your own buttons or mix and match buttons from other layouts
 ## Video tutorial for changing a suite of buttons
