@@ -186,20 +186,24 @@ This file must be 200px by 200px with each circle for your button being 100px by
 [Street Fighter](#street-fighter)
 ## 2XKO
 
+![](https://github.com/KurtMage/KurtMage.github.io/blob/main/gifs/hitbox/2XKO/4%20hitbox%20layous%20labeled.gif)
+
 ### Light mode
-![](https://github.com/KurtMage/KurtMage.github.io/blob/main/gifs/hitbox/2XKO/light%20mode.gif)
 ```
 https://gamepadviewer.com/?p=1&s=7&map=%7B%7D&editcss=https://kurtmage.github.io/hitbox%20layout/2XKO/light-mode.css
 ```
 
+### Light mode 10px border
+```
+https://gamepadviewer.com/?p=1&s=7&map=%7B%7D&editcss=https://kurtmage.github.io/hitbox%20layout/2XKO/light-mode-D-P-buttons-10px-border.css
+```
+
 ### Dark mode
-![](https://github.com/KurtMage/KurtMage.github.io/blob/main/gifs/hitbox/2XKO/Dark%20mode%20black%20border.gif)
 ```
 https://gamepadviewer.com/?p=1&s=7&map=%7B%7D&editcss=https://kurtmage.github.io/hitbox%20layout/2XKO/dark-mode.css
 ```
 
 ### Dark mode white borders
-![](https://github.com/KurtMage/KurtMage.github.io/blob/main/gifs/hitbox/2XKO/dark%20mode%20white%20border.gif)
 ```
 https://gamepadviewer.com/?p=1&s=7&map=%7B%7D&editcss=https://kurtmage.github.io/hitbox%20layout/2XKO/dark-mode-white-outlines.css
 ```
