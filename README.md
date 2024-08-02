@@ -266,3 +266,13 @@ https://gamepadviewer.com/?p=1&s=7&map=%7B%7D&editcss=https://kurtmage.github.io
 ```
 https://gamepadviewer.com/?p=1&s=5&map=%7B%7D&editcss=https://kurtmage.github.io/PS4%20controller/2XKO/pressed-white-outlined-buttons.css
 ```
+
+# All variables and what they do
+
+**WIP**
+
+| Variable name         | Description                                                                                                       | Example use                                                | Explanation of example                                                                                 |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| `--button-source-image` | Sets the image that is used for the 8 buttons on the right side of the controller. Specifically ABXY LB LT RB RT. This image should be in a format described in [this section](#formatting-buttons-on-the-right-side-of-the-controller). | `--button-source-image: url(https://imgur.com/99JKpbg.png);` | Sets the 8 buttons on the right of the controller to those in the image at https://imgur.com/99JKpbg.  |
+| `--arrow-button-source-image` | Sets the image that is used for the arrow buttons. This image should be in a format described in the [arrow buttons section](#formatting-arrow-buttons). | `--button-source-image: url(https://imgur.com/99JKpbg.png);` | Sets the 8 buttons on the right of the controller to those in the image at https://imgur.com/99JKpbg.  |
+
