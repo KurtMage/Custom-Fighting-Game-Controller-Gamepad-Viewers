@@ -1,10 +1,12 @@
 If you run into any issues or have any suggestions, feel free to @ me on twitter: @KurtMage. :)
 
-# Custom Fighting Game Controller Gamepad Viewers
+# Gamepad Viewer Layouts
 
 Various controller layouts for gamepad viewer. Example of some 2XKO layouts:
 
 ![](https://github.com/KurtMage/KurtMage.github.io/blob/main/gifs/hitbox/2XKO/4%20layouts2.gif)
+
+<!----><a name="#how-to-set-up-for-obs"></a>
 
 # How to set up for OBS
 ## Video Tutorial:
@@ -167,6 +169,8 @@ A properly formatted image for start/back buttons looks like this:
 
 This file must be 200px by 200px with each circle for your button being 100px by 100px. The unpressed version of the button goes on top and the pressed version goes immediately underneath it and the Start button is on the left and the Back button is on the right.
 
+<!----><a name="#layouts-by-controller-layout"></a>
+
 # Layouts by controller layout
 
 [Hitbox](#hitbox-layouts-by-game)
@@ -222,6 +226,7 @@ https://gamepadviewer.com/?p=1&s=7&map=%7B%7D&editcss=https://kurtmage.github.io
 [2XKO](#fight-stick-2xko)
 
 <!----><a name="fight-stick-2xko"></a>
+
 ## 2XKO
 ![](https://github.com/KurtMage/KurtMage.github.io/blob/main/gifs/fight%20stick/sticks.gif)
 
