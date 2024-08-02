@@ -1,6 +1,6 @@
 If you run into any issues or have any suggestions, feel free to @ me on twitter: @KurtMage. :)
 
-# Custom-Fighting-Game-Controller-Gamepad-Viewers
+# Custom Fighting Game Controller Gamepad Viewers
 
 Various controller layouts for gamepad viewer. Example of some 2XKO layouts:
 
